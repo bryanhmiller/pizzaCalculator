@@ -2865,8 +2865,8 @@ namespace PizzaCalculator.Droid
 			// aapt resource value: 0x7f08004b
 			public const int buttonPanel = 2131230795;
 			
-			// aapt resource value: 0x7f080082
-			public const int caculateButton = 2131230850;
+			// aapt resource value: 0x7f080083
+			public const int caculateButton = 2131230851;
 			
 			// aapt resource value: 0x7f0800a2
 			public const int cancel_action = 2131230882;
@@ -3135,8 +3135,8 @@ namespace PizzaCalculator.Droid
 			// aapt resource value: 0x7f080038
 			public const int pin = 2131230776;
 			
-			// aapt resource value: 0x7f080083
-			public const int pizzaCountLabel = 2131230851;
+			// aapt resource value: 0x7f080082
+			public const int pizzaCountLabel = 2131230850;
 			
 			// aapt resource value: 0x7f080006
 			public const int progress_circular = 2131230726;

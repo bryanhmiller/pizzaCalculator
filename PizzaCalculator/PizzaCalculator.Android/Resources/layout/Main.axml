@@ -7,13 +7,13 @@
         android:id="@+id/peopleEntry"
         android:layout_height="wrap_content"
         android:layout_width="match_parent" />
-    <Button
-        android:id="@+id/caculateButton"
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        android:text="@string/calculate" />
     <TextView
         android:id="@+id/pizzaCountLabel"
         android:layout_height="wrap_content"
         android:layout_width="match_parent" />
+    <Button
+        android:id="@+id/caculateButton"
+        android:layout_height="59.5dp"
+        android:layout_width="match_parent"
+        android:text="@string/calculate" />
 </LinearLayout>
